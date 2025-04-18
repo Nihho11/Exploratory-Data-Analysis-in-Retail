@@ -1,0 +1,8 @@
+# Ignorar el entorno virtual
+env/
+
+# Ignorar los archivos de checkpoints de Jupyter
+.ipynb_checkpoints/
+
+# Ignorar la carpeta .git
+.git/
