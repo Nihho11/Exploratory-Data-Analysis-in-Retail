@@ -32,6 +32,21 @@ Los hallazgos pueden ayudar a optimizar promociones, segmentación de clientes y
 
 ---
 
+## 🖼️ Visualizaciones del Proyecto
+
+A continuación, se muestran algunas de las visualizaciones generadas durante el análisis:
+
+### 📌 Dashboard General en Power BI
+![Dashboard Retail](images/Dashboard.png)
+
+### 📈 Gráfico Evolutivo
+![Gráfico de Lineas](images/Gráfico_Lineas.png)
+
+### 📈 Mapa de Calor
+![Mapa de Calor](images/Mapa_Calor.png)
+
+---
+
 ## 🛠️ Herramientas y Librerías
 
 - Python (pandas, numpy, matplotlib, seaborn)
