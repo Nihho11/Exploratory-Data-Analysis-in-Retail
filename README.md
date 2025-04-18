@@ -43,9 +43,13 @@ Los hallazgos pueden ayudar a optimizar promociones, segmentación de clientes y
 
 ## 📁 Estructura del repositorio
 📦 p-retail-eda
+
 ├── Retail Analysis.ipynb          # Notebook con el análisis exploratorio completo
+
 ├── retail_sales_dataset.csv       # Dataset utilizado para el análisis
+
 ├── README.md                      # Archivo de documentación del proyecto
+
 └── Retail Dashboard.pbix          # Dashboard en Power BI
 
 
