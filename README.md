@@ -15,6 +15,9 @@ Este proyecto forma parte de mi portafolio como Analista de Datos y está enfoca
 - Transformación de datos para facilitar el análisis
 - Generación de insights clave y recomendaciones accionables
 
+**Archivo Principal:**  
+El desarrollo completo del análisis se encuentra en el notebook [`Retail Analysis.ipynb`](Retail%20Analysis.ipynb), donde se documentan todos los pasos.
+
 **Impacto:**  
 Los hallazgos pueden ayudar a optimizar promociones, segmentación de clientes y gestión de inventarios por temporada y categoría de producto.
 
