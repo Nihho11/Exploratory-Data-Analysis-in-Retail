@@ -100,6 +100,6 @@ Fuente: [Kaggle - Retail Sales Dataset](https://www.kaggle.com/datasets/mohammad
 ## 📬 Contacto
 
 ¿Tienes sugerencias o quieres colaborar?  
-¡Contáctame por [LinkedIn](https://www.linkedin.com/in/eduardo-alfonso-haro-villanueva-baa50a261/) o revisa más proyectos en mi portafolio!
+¡Contáctame por [LinkedIn](https://www.linkedin.com/in/eduardo-alfonso-haro-villanueva-baa50a261/) o revisa más proyectos en mi [portafolio](https://portfolio-eharo.cardd.co/)!
 
 
